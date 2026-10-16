@@ -12,3 +12,13 @@ Run program:
 zig build run
 ```
 
+Run tests:
+```zsh
+zig build test
+```
+
+List all build steps:
+```zsh
+zig build -l
+```
+
