@@ -1,0 +1,13 @@
+.{
+    .name = ._02_hello_gui,
+    .version = "0.0.1",
+    .dependencies = .{
+        .dvui = .{
+            .url = "git+https://github.com/david-vanderson/dvui?ref=main#275c248f6a2a80f92723ac93242310e16201a49b",
+            .hash = "dvui-0.6.0-dev-AQFJmWZLBAG6E9WSTCqdouXXCC8gF91z6oiLmZvh3e-5",
+        },
+    },
+    .minimum_zig_version = "0.17.0",
+    .paths = .{""},
+    .fingerprint = 0xe29caf8b06a5d094,
+}
